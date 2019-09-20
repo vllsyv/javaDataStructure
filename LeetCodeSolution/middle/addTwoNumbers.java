@@ -16,14 +16,7 @@ package LeetCodeSolution.middle;
  链接：https://leetcode-cn.com/problems/add-two-numbers
 
  */
-/**
- * Definition for singly-linked list.
- * public class LeetCodeSolution.middle.ListNode {
- *     int val;
- *     LeetCodeSolution.middle.ListNode next;
- *     LeetCodeSolution.middle.ListNode(int x) { val = x; }
- * }
- */
+
 public class addTwoNumbers{
     public static void main(String[] args) {
         ListNode l1 = new ListNode(2);
